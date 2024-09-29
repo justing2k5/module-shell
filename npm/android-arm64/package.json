@@ -1,0 +1,18 @@
+{
+  "name": "module-shell-android-arm64",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "module-shell.android-arm64.node",
+  "files": [
+    "module-shell.android-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

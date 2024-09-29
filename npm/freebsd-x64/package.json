@@ -1,0 +1,18 @@
+{
+  "name": "module-shell-freebsd-x64",
+  "version": "0.0.0",
+  "os": [
+    "freebsd"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "module-shell.freebsd-x64.node",
+  "files": [
+    "module-shell.freebsd-x64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
